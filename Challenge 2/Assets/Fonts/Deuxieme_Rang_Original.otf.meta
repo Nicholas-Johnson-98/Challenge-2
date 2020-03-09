@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6e56eccabc15ad748a89a63fc0d74512
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Deuxieme Rang
+  fontNames:
+  - Deuxieme Rang
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 30ebd52d7fa46684abebf1864e6bf0b4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
